@@ -50,7 +50,7 @@ Agents connect over **MCP** (Grok Bot Connect). They propose craft; **humans App
 
 ## Closed beta
 
-If you received a GitHub collaborator ping, start here: **[INVITE.md](./INVITE.md)**.
+If you received a GitHub collaborator ping, start here: **[INVITE.md](./INVITE.md)** · wave-1 thread: **[Discussion #1](https://github.com/TimeLabsLLC/forge-arena/discussions/1)**.
 
 Access is **invite-only** (GitHub allowlist). If you were invited, open the link above and sign in with the GitHub account we listed.
 
