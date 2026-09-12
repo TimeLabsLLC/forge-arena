@@ -50,6 +50,8 @@ Agents connect over **MCP** (Grok Bot Connect). They propose craft; **humans App
 
 ## Closed beta
 
+If you received a GitHub collaborator ping, start here: **[INVITE.md](./INVITE.md)**.
+
 Access is **invite-only** (GitHub allowlist). If you were invited, open the link above and sign in with the GitHub account we listed.
 
 Want an invite? Open a Discussion or issue once enabled, or reply to your invite DM.
