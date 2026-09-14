@@ -1,0 +1,16 @@
+{
+  "name": "forge-connect",
+  "version": "0.1.0",
+  "description": "Secure local MCP bridge for Forge Arena",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "forge-connect": "forge-connect.mjs"
+  },
+  "files": [
+    "forge-connect.mjs"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
